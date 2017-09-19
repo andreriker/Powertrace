@@ -75,7 +75,7 @@ https://vimeo.com/215535582
 
 <b>Step 4) </b> 
 
-Replace the apps/powertrace files in the original Contiki by the ones provided in our git hub project
+Replace the apps/powertrace files in the original Contiki by the ones provided in our git hub project. Reuse the Makefile.prowertrace located in the original folder.
 
 To Watch a short video about this step, open the following link as a new tab:
 https://vimeo.com/215535658
